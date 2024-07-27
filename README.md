@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">An Aircraft Engineer learning to code.</h3>
 
-<p align="left"> <a href="https://twitter.com/danida7_" target="blank"><img src="https://img.shields.io/twitter/follow/danida7_?logo=twitter&style=for-the-badge" alt="danida7_" /></a> </p>
 
 - 📫 How to reach me **daniyalasim922@gmail.com**
 
