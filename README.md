@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniyal</h1>
-<h3 align="center">An Aircraft Engineer learning to code.</h3>
+<h3 align="center">An Aircraft Mechanic learning to code.</h3>
 
 
 - 📫 How to reach me **daniyalasim922@gmail.com**
