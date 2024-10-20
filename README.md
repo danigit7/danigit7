@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">An Aircraft Engineer learning to code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danigit7" alt="danigit7" /></a> </p>
 
 
 - 📫 How to reach me **daniyalasim922@gmail.com**
