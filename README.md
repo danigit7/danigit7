@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniyal</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer also working on Agentic AI systems</h3>
 
 
 
